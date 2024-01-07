@@ -1,7 +1,7 @@
 # Student-registration Form
 
 
-Student registration forms are used to register students for vaeious activites or record.
+Student registration forms are used to register students for various activites or record.
 it includes the student full name,student roll number, date of birth of a student , enrollment date ,address of student and phone number.
 for creating registration form used html language for webpage ,css for styling web pages and 
 
